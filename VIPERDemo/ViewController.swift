@@ -18,6 +18,11 @@
 
 import UIKit
 
+enum Star {
+    case start
+    case end
+}
+
 protocol ViewInterface : NSObject {
     func setUpView()
     func setData()
