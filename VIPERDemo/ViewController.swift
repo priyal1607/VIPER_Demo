@@ -18,10 +18,10 @@
 
 import UIKit
 
-enum TYpe{
-    case ski
-    case snowboard
-}
+//enum TYpe{
+//    case ski
+//    case snowboard
+//}
 
 protocol ViewInterface : NSObject {
     func setUpView()
