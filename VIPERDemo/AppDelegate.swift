@@ -18,7 +18,9 @@ var window: UIWindow?
         return true
     }
 
-   
+    func navigateToHomeViewController() {
+        //navigation
+    }
 
 }
 
